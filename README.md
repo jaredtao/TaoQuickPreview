@@ -79,7 +79,6 @@ TaoQuick仓库地址 [https://github.com/jaredtao/TaoQuick](https://github.com/j
 
 | 作者 | 涛哥                           |
 | ---- | -------------------------------- |
-|开发理念 | 弘扬鲁班文化，传承工匠精神 |
 | 博客 | https://jaredtao.github.io |
 | 博客-国内镜像 | https://jaredtao.gitee.io |
 |知乎专栏| https://zhuanlan.zhihu.com/TaoQt |
